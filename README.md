@@ -17,9 +17,9 @@
 
 ## 🚀 Projects
 
-- **(https://github.com/insane-io/EventPro)**: Event Management wtih role based routing and student registrations, and a lot more... 
-- **(https://github.com/insane-io/springdale)**: School Website with a few GSAP animations.
-- **(https://github.com/VipulMore11/JourneyJett)**: Search and explore places with personalized recommendations and maps integration.
+- **[EventPro](https://github.com/insane-io/EventPro)**: Event Management wtih role based routing and student registrations, and a lot more... 
+- **[SpringDale](https://github.com/insane-io/springdale)**: School Website with a few GSAP animations.
+- **[JourneyJett](https://github.com/VipulMore11/JourneyJett)**: Search and explore places with personalized recommendations and maps integration.
 - **More To Come...**
 
 ## 🏆 Hackathon Achievements
